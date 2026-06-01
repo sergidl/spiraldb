@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/DS-LIB-C01-003",
+  "Name": "DS-LIB-C01-003",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:58:38.682558Z",
+  "ModifiedAt": "2026-06-01T00:58:38.682558Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

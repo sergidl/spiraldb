@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/MS-DTH2-C01-005",
+  "Name": "MS-DTH2-C01-005",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:55:17.185231Z",
+  "ModifiedAt": "2026-06-01T00:55:17.185231Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

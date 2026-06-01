@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/KT-SPHub-C01-002",
+  "Name": "KT-SPHub-C01-002",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:53:06.714502Z",
+  "ModifiedAt": "2026-06-01T00:53:06.714502Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

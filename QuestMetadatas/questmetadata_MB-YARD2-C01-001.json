@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/MB-YARD2-C01-001",
+  "Name": "MB-YARD2-C01-001",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:54:11.298229Z",
+  "ModifiedAt": "2026-06-01T00:54:11.298229Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/KT-PYMHub-C01-005",
+  "Name": "KT-PYMHub-C01-005",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:51:46.551754Z",
+  "ModifiedAt": "2026-06-01T00:51:46.551754Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

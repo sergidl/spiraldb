@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/WC-TRITON-MAIN-002",
+  "Name": "WC-TRITON-MAIN-002",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:50:20.604647Z",
+  "ModifiedAt": "2026-06-01T00:50:20.604647Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

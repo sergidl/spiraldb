@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/DS-ACAD2-C01-004",
+  "Name": "DS-ACAD2-C01-004",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:58:13.517033Z",
+  "ModifiedAt": "2026-06-01T00:58:13.517033Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

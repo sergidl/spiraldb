@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/MB-AIRHub-C02-001",
+  "Name": "MB-AIRHub-C02-001",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:53:41.981373Z",
+  "ModifiedAt": "2026-06-01T00:53:41.981373Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

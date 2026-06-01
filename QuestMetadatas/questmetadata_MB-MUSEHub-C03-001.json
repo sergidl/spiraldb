@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/MB-MUSEHub-C03-001",
+  "Name": "MB-MUSEHub-C03-001",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:53:57.647468Z",
+  "ModifiedAt": "2026-06-01T00:53:57.647468Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

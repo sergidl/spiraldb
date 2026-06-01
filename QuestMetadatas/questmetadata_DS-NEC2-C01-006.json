@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/DS-NEC2-C01-006",
+  "Name": "DS-NEC2-C01-006",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T01:01:24.419322Z",
+  "ModifiedAt": "2026-06-01T01:01:24.419322Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

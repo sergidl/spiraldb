@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/WC-MAIN-C01-012",
+  "Name": "WC-MAIN-C01-012",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:50:01.200927Z",
+  "ModifiedAt": "2026-06-01T00:50:01.200927Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}

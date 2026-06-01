@@ -1,0 +1,9 @@
+{
+  "QuestTemplateId": "questtemplates/MS-WAR1-C01-001",
+  "Name": "MS-WAR1-C01-001",
+  "Description": "Quest built from packet capture.",
+  "CreatedAt": "2026-06-01T00:56:51.435746Z",
+  "ModifiedAt": "2026-06-01T00:56:51.435746Z",
+  "CreatedBy": "quest_builder",
+  "ModifiedBy": "quest_builder"
+}
